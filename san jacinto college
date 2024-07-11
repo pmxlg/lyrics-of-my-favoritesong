@@ -1,0 +1,14 @@
+class SongLyrics{
+    SongLyrics(){
+    System.out.println("I'm on the run with you, my sweet love");
+    System.out.println("There's nothing wrong contemplating God");
+    System.out.println("Under the chemtrails over the country club ");
+    System.out.println("Wearing our jewels in the swimming pool");
+    }
+}
+public class Main
+{
+	public static void main(String[] args) {
+		SongLyrics st = new SongLyrics();
+	}
+}
